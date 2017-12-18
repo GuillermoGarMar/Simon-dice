@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="WbtnV">#00cc00</color>
+    <color name="WbtnAz">#0033cc</color>
+    <color name="WbtnAm">#ffff00</color>
+    <color name="WbtnR">#ff0000</color>
+    <color name="btnV">#33ff33</color>
+    <color name="btnAz">#3366ff</color>
+    <color name="btnAm">#ffff33</color>
+    <color name="btnR">#ff3333</color>
+</resources>
